@@ -1,5 +1,5 @@
 ### Algebra Teacher ∆ ⟹ Data Scientist
-![AmandaGomez](https://i.pinimg.com/originals/01/27/5b/01275b24d4c422cf4b8ccc92d3403040.gif)
+![AmandaGomez](https://i.pinimg.com/originals/e1/76/5c/e1765c56c9df06746a96559354098113.gif)
 
 <span style="color:5F5B8F">
     
