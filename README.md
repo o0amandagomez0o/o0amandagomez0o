@@ -9,7 +9,7 @@
 ***
 Most people wouldn't imagine a high school Algebra teacher reading stories to teenagers, but that's what I did  for the last 7 and a half years. Creating elaborate stories from numbers earned me the nickname of Ms. Frizzle amongst my students (do know, I don't have red hair or drive a bus). Once I learned that I could help others interpret and draw conclusions from data, I knew my tenacity, gregariousness and principled-mindset would aid my success in the data science world.
     
-In my off time, I enjoy continuing to train towards 12K Bay to Breakers, painting intricate nail designs, reading graphic novels or sci-fi, spending time with my family, or taking my pack of doggos 🐶 🐕 🐶 out for adventures!
+In my off time, I enjoy continuing to train towards 12K Bay to Breakers, painting intricate nail designs, reading graphic novels or sci-fi, spending time with my family, or taking my pack of doggos 🐶 🐕 🐶. out for adventures!
     
 
 </span> 
